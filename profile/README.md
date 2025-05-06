@@ -1,54 +1,51 @@
 # CAD/CAM FUN
 
-
 ![CAD/CAM FUN Logo](https://cadcamfun.xyz/logo.png)
 
-Un'innovativa piattaforma web per progettazione 2D/3D, modellazione parametrica e controllo di macchine CNC con integrazione avanzata di intelligenza artificiale.
+An innovative web platform for 2D/3D design, parametric modeling, and CNC machine control with advanced AI integration.
 
-## 🌟 Panoramica
+## 🌟 Overview
 
-CAD/CAM FUN è un'applicazione web completa che combina funzionalità CAD (Computer-Aided Design) e CAM (Computer-Aided Manufacturing) in un'interfaccia moderna e intuitiva. La piattaforma offre strumenti potenti per creare, modificare e produrre progetti, con assistenza AI integrata per una produttività ottimizzata.
+**CAD/CAM FUN** is a comprehensive web application that combines CAD (Computer-Aided Design) and CAM (Computer-Aided Manufacturing) functionalities in a modern, intuitive interface. The platform provides powerful tools to create, edit, and manufacture projects, with built-in AI assistance for optimal productivity.
 
-### Caratteristiche Principali
+### Key Features
 
-- **Ambiente CAD/CAM Integrato**: Transizione fluida dalla progettazione alla produzione
-- **Modellazione 2D/3D Avanzata**: Crea e modifica sia disegni 2D che modelli 3D complessi
-- **Design Assistito da AI**: Sfrutta l'intelligenza artificiale per generare componenti, ottimizzare percorsi utensile e migliorare i progetti
-- **Organizzazione & Collaborazione**: Gestisci progetti, componenti e team con controllo delle versioni
-- **Integrazione Macchine CNC**: Genera e convalida codice G per vari tipi di macchine industriali
-- **Librerie Complete di Materiali & Utensili**: Accedi a componenti standard e personalizza i tuoi
-- **Interfaccia Web Moderna**: Design responsive con supporto per modalità scura e chiara
-- **Sistema di Simulazione Integrato**: Verifica i percorsi utensile prima della produzione
-- **Ottimizzazione Automatica**: Riduci i tempi di lavorazione e migliora la qualità dei risultati
+- **Integrated CAD/CAM Environment**: Seamless transition from design to manufacturing
+- **Advanced 2D/3D Modeling**: Create and edit both 2D drawings and complex 3D models
+- **AI-Assisted Design**: Leverage artificial intelligence to generate components, optimize toolpaths, and improve designs
+- **Organization & Collaboration**: Manage projects, components, and teams with version control
+- **CNC Machine Integration**: Generate and validate G-code for various types of industrial machines
+- **Comprehensive Material & Tool Libraries**: Access standard components and customize your own
+- **Modern Web Interface**: Responsive design with support for both light and dark modes
+- **Integrated Simulation System**: Verify toolpaths before production
+- **Automatic Optimization**: Reduce machining time and improve output quality
 
-## 📚 Documentazione
+## 📚 Documentation
 
-La documentazione dettagliata per componenti, API ed esempi d'uso è disponibile nei commenti del codice e sarà ampliata in aggiornamenti futuri. Una documentazione completa è in fase di sviluppo e sarà disponibile all'indirizzo [docs.cadcamfun.xyz](https://docs.cadcamfun.xyz).
+Detailed documentation for components, APIs, and usage examples is available in code comments and will be expanded in future updates. A complete documentation portal is under development and will be available at [docs.cadcamfun.xyz](https://docs.cadcamfun.xyz).
 
-## 🤝 Contribuire
+## 🤝 Contributing
 
-I contributi sono benvenuti, ma soggetti a revisione e approvazione. Si prega di contattare l'autore prima di inviare pull request significative.
+Contributions are welcome but subject to review and approval. Please contact the author before submitting significant pull requests.
 
-1. Forka il repository
-2. Crea il tuo branch per la funzionalità (`git checkout -b feature/funzionalita-incredibile`)
-3. Commit delle tue modifiche (`git commit -m 'Aggiungi una funzionalità incredibile'`)
-4. Push al branch (`git push origin feature/funzionalita-incredibile`)
-5. Apri una Pull Request per revisione
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add an amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request for review
 
-## 📄 Licenza
+## 📄 License
 
-Questo progetto è protetto da una Licenza d'Uso Proprietaria Limitata. Vedere il file [LICENSE](LICENSE) per i dettagli completi.
+This project is protected by a Limited Proprietary Use License. See the [LICENSE](LICENSE) file for full details.
 
-## 📞 Contatti
+## 📞 Contact
 
 Nikomatt69 - [GitHub](https://github.com/nikomatt69)
 
-Link al Progetto: [https://github.com/cadcamfun/cadcamfun](https://github.com/cadcamfun/cadcamfun)
+Project Link: [https://github.com/cadcamfun/cadcamfun](https://github.com/cadcamfun/cadcamfun)
 
-Sito Web: [https://cadcamfun.xyz](https://cadcamfun.xyz)
-
-
+Website: [https://cadcamfun.xyz](https://cadcamfun.xyz)
 
 ---
 
-© 2025 CAD/CAM FUN. Tutti i diritti riservati.
+© 2025 CAD/CAM FUN. All rights reserved.
