@@ -42,7 +42,7 @@ This project is protected by a Limited Proprietary Use License. See the [LICENSE
 
 Nikomatt69 - [GitHub](https://github.com/nikomatt69)
 
-Project Link: [https://github.com/cadcamfun/cadcamfun](https://github.com/cadcamfun/cadcamfun)
+Project Link: [https://github.com/CADCAMFUN/cadcamfun](https://github.com/CADCAMFUN/cadcamfun)
 
 Website: [https://cadcamfun.xyz](https://cadcamfun.xyz)
 
